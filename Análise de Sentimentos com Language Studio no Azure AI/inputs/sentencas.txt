@@ -1,0 +1,17 @@
+Sentenças Positivas:
+
+1. Estou extremamente satisfeito com o atendimento, foi rápido e eficiente!
+2. O produto superou minhas expectativas, recomendo a todos.
+3. A interface do aplicativo é intuitiva e muito fácil de usar.
+
+Sentenças Neutras:
+
+1. Recebi meu pedido hoje e ainda não testei o produto.
+2. O serviço funciona como descrito, nada de excepcional.
+3. A loja tem várias opções, mas os preços são medianos.
+
+Sentenças Negativas:
+
+1. Tive uma experiência péssima, o serviço demorou muito mais do que o prometido.
+2. O produto veio com defeito e o suporte não respondeu minhas mensagens.
+3. A interface do site é confusa e difícil de navegar.
